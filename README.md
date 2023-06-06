@@ -2,4 +2,4 @@
 
 ## This is a subreading
 
-This is the eadme for my repo. 
+This is the readme for my repo. 
